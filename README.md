@@ -84,7 +84,6 @@ Ronald lobo
 
 
 
-Would you like me to generate the actual `README.md` file so you can just copy-paste or upload it?
 
 
 
